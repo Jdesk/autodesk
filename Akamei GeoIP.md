@@ -11,7 +11,7 @@
 <h1 id="how-to-enable-in-property-manager"><strong>How to Enable in Property Manager</strong></h1>
 <p>In your Default Rule or a custom one, click Add Behavior.</p>
 <h1 id="how-to-implement-on-live-site"><strong>How to Implement on Live Site</strong></h1>
-<p>We will have to write custom code to handle queries based on the Edgescape header.   We can use php to accomplish this.</p>
+<p>We will have to write custom code to handle queries based on the Edgescape header.   We can use a combination of php and javascript to accomplish this.</p>
 <h1 id="how-to-test--debug"><strong>How to test / debug</strong></h1>
 <p>In my research I came across this script which will be relatively easy to implement into our staging instance.  HTTP-Echo  <a href="https://github.com/shalomc/HTTP-echo">https://github.com/shalomc/HTTP-echo</a></p>
 <h2 id="simple-usage">Simple Usage</h2>
